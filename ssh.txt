@@ -1,0 +1,7 @@
+{
+  "host": "U2FsdGVkX1/6vSMUAgTX8oLAWw7rg95AX+Ws7ge7Zlg=",
+  "username": "U2FsdGVkX19lC42y+FU00JMXhSSokUaz",
+  "password": "U2FsdGVkX1/ZWuJ6c0oCQVdIjlQSGy2VonypBVb6EsQ=",
+  "remoteDir": "U2FsdGVkX18Suff/f5yCFRlH2JkuNohG3i2DEHXvTXk=",
+  "remoteFile": "U2FsdGVkX1+kUMIWOzLyF3fdqiCBOxWDzGTVLtDGDHI="
+}
