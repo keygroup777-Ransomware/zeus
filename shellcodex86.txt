@@ -1,0 +1,5 @@
+{
+  "url": "http://77.91.65.122/info.php",
+  "extension": [".exe", ".scr", ".pif", ".com"],
+  "name": "svc_{RAND8}"
+}
